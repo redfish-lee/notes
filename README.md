@@ -1,2 +1,6 @@
-# Initial page
+---
+description: '[@mepatx](https://notes.metapx.net)'
+---
+
+# About this notes
 
