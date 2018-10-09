@@ -4,5 +4,7 @@
 
 ## Algorithms
 
-* [Untitled](algorithms/untitled.md)
+* [Sorting](algorithms/untitled.md)
+* [Growth Functions](algorithms/growth-functions.md)
+* [Recurrence](algorithms/recurrence.md)
 
