@@ -7,4 +7,6 @@
 * [Sorting](algorithms/untitled.md)
 * [Growth Functions](algorithms/growth-functions.md)
 * [Recurrence](algorithms/recurrence.md)
+* [Divide-and-Conquer](algorithms/divide-and-conquer.md)
+* [Heapsort](algorithms/heapsort.md)
 

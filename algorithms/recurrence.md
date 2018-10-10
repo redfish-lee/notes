@@ -1,8 +1,29 @@
 # Recurrence
 
-### Basic
+## Introduction
 
-### Example: Hanoi Tower 
+遞迴關係依據線性與否有不同解法：
+
+* **Linear Recurrence**
+* **Divide-and-Conquer Recurrence**
+
+## Solve recurrences
+
+### Substitution Method
+
+* If we know the answer
+
+### Recursion Tree Method
+
+*  \(Very useful !\) 
+
+### Master Theorem
+
+* \(Save our effort\)
+
+
+
+## Example: Hanoi Tower 
 
 #### 3 rules: 
 
