@@ -31,7 +31,7 @@
 
 ### Merge Sort
 
-![Algorithm: Merge Sort](../.gitbook/assets/image%20%285%29.png)
+![Algorithm: Merge Sort](../.gitbook/assets/image%20%286%29.png)
 
 #### 說明
 

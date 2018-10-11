@@ -29,7 +29,12 @@
 
 ### Array Representation
 
+![Max Heap](../.gitbook/assets/image%20%285%29.png)
 
+* heap index 由 1 ~ n
+* node `x` ****的 **children node** 分別為 `2x`, `2x+1` 
+* node `x` 的 **parent node** 是 $$\left \lfloor{\frac{x}{2}}\right \rfloor$$ 
+* 不需要額外 tree pointer 即可用 index 定址
 
 ## Heapsort
 
