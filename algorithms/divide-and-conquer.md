@@ -27,5 +27,13 @@
 * `max(leftSubarrMax(), rightSubarrMax(), crossmidMax()`
 * $$T(n) = O(n\ log\ n)$$ 
 
+## Strassen's Matrix Multiplication
 
+利用「2個2x2矩陣相乘，至少需要 7 個 multiplications \([reference](https://ccjou.wordpress.com/2013/06/04/%E5%88%86%E6%B2%BB%E7%9F%A9%E9%99%A3%E4%B9%98%E6%B3%95%E2%94%80%E2%94%80strassen-%E6%BC%94%E7%AE%97%E6%B3%95/)\)，所以時間上
+
+$$
+T(n) = 7\ T(\frac{n}{2}) + \Theta(n^2)=\Theta(n^{lg\ 7})=\Theta (n^{2.81}) <\Theta(n^3)
+$$
+
+推廣到 kxk 矩陣，最佳 upperbound $$O(n^{2.376})$$
 

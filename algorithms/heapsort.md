@@ -29,7 +29,7 @@
 
 ### Array Representation
 
-![Max Heap](../.gitbook/assets/image%20%285%29.png)
+![Max Heap](../.gitbook/assets/image%20%2815%29.png)
 
 * heap index 由 1 ~ n
 * node `x` ****的 **children node** 分別為 `2x`, `2x+1` 
@@ -49,9 +49,9 @@ for i = 1 to n:
     heap.extract_min()
 ```
 
-
-
-
-
 ## Priority Queue
+
+* heap 可以用來實作高效率 priority queue
+
+
 
