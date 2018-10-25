@@ -6,7 +6,7 @@
 
 ### Insertion Sort
 
-![Algorithm: Insertion Sort](../.gitbook/assets/image%20%286%29.png)
+![Algorithm: Insertion Sort](../.gitbook/assets/image%20%287%29.png)
 
 #### 說明
 
@@ -19,7 +19,7 @@
 
 ### **Selection sort**
 
-![Algorithm: Selection Sort](../.gitbook/assets/image%20%2812%29.png)
+![Algorithm: Selection Sort](../.gitbook/assets/image%20%2815%29.png)
 
 #### 說明
 
@@ -31,7 +31,7 @@
 
 ### Merge Sort
 
-![Algorithm: Merge Sort](../.gitbook/assets/image%20%2816%29.png)
+![Algorithm: Merge Sort](../.gitbook/assets/image%20%2819%29.png)
 
 #### 說明
 

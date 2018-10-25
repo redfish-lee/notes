@@ -33,7 +33,7 @@
 
 ![](https://www.dropbox.com/s/bqpx6jipwdey8xc/Screenshot%202018-09-30%2000.52.40.png?dl=0)
 
-![Mathematics for Computer Science, Eric Lehman](../.gitbook/assets/image%20%2817%29.png)
+![Mathematics for Computer Science, Eric Lehman](../.gitbook/assets/image%20%2820%29.png)
 
 * **3** pegs \(**A, B, C**\) and **N** disks \(on **A**\)，定義`T(N-1, start, aux, end)`
   * 先移動最大塊的到目標 \(end\)：
@@ -43,5 +43,5 @@
     * `T(N-1, start, end, aux)`
 * 複雜度
 
-![](../.gitbook/assets/image%20%2822%29.png)
+![](../.gitbook/assets/image%20%2826%29.png)
 

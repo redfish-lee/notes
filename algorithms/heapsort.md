@@ -16,7 +16,7 @@
 * `FindMin`，root 就是 min，$$O(1)$$ 
 * `Extract-Min`，刪除並重選 root，$$O(log\ n)$$
   * 複製最後一個節點到 root
-  * 刪除最後結點
+  * 刪除最後節點
   * 重新 locate root 到新位置 \(一直swap下去\)
     * 與 children 中較小的作交換，直到所有 children 均大於此 node
 * `Insert`，加入一個點到 heap 中，$$O(log\ n)$$
@@ -29,7 +29,7 @@
 
 ### Array Representation
 
-![Max Heap](../.gitbook/assets/image%20%2815%29.png)
+![Max Heap](../.gitbook/assets/image%20%2818%29.png)
 
 * heap index 由 1 ~ n
 * node `x` ****的 **children node** 分別為 `2x`, `2x+1` 
