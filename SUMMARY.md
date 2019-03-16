@@ -9,5 +9,5 @@
 * [Recurrence](algorithms/recurrence.md)
 * [Divide-and-Conquer](algorithms/divide-and-conquer.md)
 * [Heapsort](algorithms/heapsort.md)
-* [2017 Exam 1](algorithms/2017-exam-1.md)
+* [Graph Algorithms](algorithms/graph-algorithms.md)
 
