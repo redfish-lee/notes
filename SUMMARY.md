@@ -5,7 +5,7 @@
 ## Algorithms
 
 * [Sorting](algorithms/sorting.md)
-* [Growth Functions](algorithms/growth-functions.md)
+* [Complexity](algorithms/complexity.md)
 * [Recurrence](algorithms/recurrence.md)
 * [Divide-and-Conquer](algorithms/divide-and-conquer.md)
 * [Heapsort](algorithms/heapsort.md)
