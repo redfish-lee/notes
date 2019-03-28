@@ -10,4 +10,5 @@
 * [Divide-and-Conquer](algorithms/divide-and-conquer.md)
 * [Heapsort](algorithms/heapsort.md)
 * [Graph Algorithms](algorithms/graph-algorithms.md)
+* [Greedy Method](algorithms/greedy-method.md)
 
