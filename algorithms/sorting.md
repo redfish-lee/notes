@@ -17,6 +17,14 @@
 
 * 時間複雜度： $$T(n) = O(n^2)$$
 
+###  **Knockout Sort**
+
+Knockout sort 跟 Insertion sort 概念上很像，但優點是當它再找 $$2^{nd} smallest$$ 時，會利用到之前找第一小的紀錄。
+
+
+
+
+
 ### **Selection sort**
 
 ![Algorithm: Selection Sort](../.gitbook/assets/image%20%2815%29.png)
